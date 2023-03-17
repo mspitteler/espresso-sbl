@@ -1,0 +1,9 @@
+VERSION=1
+/
+  00000000:Sbl.bin:7f011aaa135221739112237
+  00000001:Sbl_uart.bin:7f011889f106733086144257
+  00000002:Sbl_uart_external_boot.bin:7f0118277107268913782111
+  00000003:Sbl_uart_external_boot_extra_commands.bin:7f011a87b108589653893068
+  00000004:Sbl_uart_external_boot_extra_commands_default_loadkernelfat.bin:7f011ac5321338391939272
+NEXT-ID:5
+MD5:d41d8cd98f00b204e9800998ecf8427e
